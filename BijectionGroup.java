@@ -1,5 +1,3 @@
-package CSE216HW_3;
-
 import java.util.*;
 import java.util.function.*;
 import java.util.stream.Collectors;
